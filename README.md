@@ -33,13 +33,15 @@ It includes a public-facing web tier and a private database tier inside a Virtua
 ---
 
 ## 📸 Screenshots
+
 | Service | Screenshot |
 |----------|-------------|
-| EC2 Instances | ![EC2](screenshots/ec2-instance.png) |
+| EC2 Instance | ![EC2](screenshots/ec2-instance.png) |
 | RDS Instance | ![RDS](screenshots/rds-instance.png) |
 | Load Balancer | ![ALB](screenshots/load-balancer.png) |
-| Route 53 Domain | ![Route53](screenshots/route53-domain.png) |
-| CloudWatch Dashboard | ![CloudWatch](screenshots/cloudwatch-dashboard.png) |
+| Auto Scaling Group | ![ASG](screenshots/autoscaling-group.png) |
+| AMI | ![AMI](screenshots/ami-image.png) |
+| CloudWatch Alarms | ![CloudWatch](screenshots/cloudwatch-alarms.png) |
 
 ---
 
